@@ -1,0 +1,617 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#%F0%9F%87%BA%F0%9F%87%B2%20ProxyCloud%20USA%20%F0%9F%91%91  # 249ms
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=%2F&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20by%20AzadNet  # 125ms
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Ultra  # 110ms
+vless://aa1aac84-6a86-41b9-bd34-1a036e06976f@185.250.181.128:16106?security=reality&encryption=none&pbk=FnkrwrjQqktvwxPvLn7KyWZIq8bUAvVaeCrI_VhAZ34&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=3b6239cf6fd84dd3#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20MAX  # 126ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20MAX  # 109ms
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%F0%9F%87%B3%F0%9F%87%B1%20France%20%2B%20NL%20MAX  # 107ms
+vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%87%B3%F0%9F%87%B1%20USA%20%2B%20NL%20MAX  # 201ms
+vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=%2F%3Fed&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20MAX  # 187ms
+vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20MAX%202  # 231ms
+vmess://eyJhZGQiOiIxNS4yMDQuMTEuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUzNjEiLCJwcyI6IvCfh7rwn4e4IFVTQSBNQVgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9  # 280ms
+vless://7244a576-0680-ee46-acd8-55809ee12479@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20MAX  # 252ms
+vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20USA%20MAX%202  # 277ms
+vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiLwn4e48J+HrCBTaW5nYXBvcmUgTUFYIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==  # 323ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.243:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20MAX%203  # 184ms
+vless://56c3abea-507d-4559-b1bd-39f339fc4997@m2a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20MAX%202  # 293ms
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%20Ultra  # 233ms
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20Ultra  # 129ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20-%20The%20Netherlands  # 118ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%F0%9F%87%BB%F0%9F%87%B3%20VM%20-%20Vietnam  # 450ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20-%20The%20Netherlands%202  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%B5%F0%9F%87%B7%20PR%20-%20Puerto%20Rico  # 335ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#%F0%9F%87%AD%F0%9F%87%B0%20HK%20-%20Hong%20Kong%204  # 296ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%F0%9F%87%BB%F0%9F%87%B3%20VM%20-%20Vietnam%202  # 408ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A8%F0%9F%87%B4%20CO%20-%20Colombia  # 323ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BE%20CY%20-%20Cyprus  # 136ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7%20TR%20-%20T%C3%BCrkiye  # 147ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3%20IN%20-%20India  # 373ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%F0%9F%87%B5%F0%9F%87%B1%20PL%20-%20Poland  # 156ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%F0%9F%87%BA%F0%9F%87%B8%20US%20-%20United%20States%202  # 166ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8%20US%20-%20United%20States%203  # 201ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20by%20AzadNet  # 123ms
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.10:443?path=%2F&security=tls&encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%28ipv6%29  # 140ms
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%20by%20AzadNet  # 261ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@176.124.223.161:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20USA%203%20by%20AzadNet  # 44ms
+vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.99.250:443?path=%2F&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20X%20CloudFlare  # 110ms
+vless://8e6acce9-8b56-7190-d491-7d84f8189e26@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20by%20AzadNet  # 200ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20USA%204%20by%20AzadNet  # 22ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20USA%205%20by%20AzadNet  # 54ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@147.185.161.234:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20USA%206%20by%20AzadNet  # 45ms
+vless://6d0b71e4-b843-4acc-a239-884e422c9f33@172.67.133.49:8880?path=%2FrAnzZ41YzhPlT0iC%3Fed%3D2560&security=none&encryption=none&host=ponq0qxlwnh55dbid7ebc1j6ltxdcyer.mamadibaram.workers.dev&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20Fast  # 122ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.165:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20USA%207%20by%20AzadNet  # 23ms
+vmess://eyJhZGQiOiJpcC5zYiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnIuYXRsZW4uZHBkbnMub3JnIiwiaWQiOiIyODU0OGVmNy05ODNkLTRlZTgtOGJkNi03ZDcxZDkwNWI1YTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMjg1NDhlZjctOTgzZC00ZWU4LThiZDYtN2Q3MWQ5MDViNWEyLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+Hq/Cfh7cgRnJhbmNlIC5ORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiZnIuYXRsZW4uZHBkbnMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=  # 162ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20France%20.NET%20II  # 102ms
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20.NET  # 241ms
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20.NET%20II  # 173ms
+ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20.NET  # 108ms
+vless://37ec0496-7136-4efd-bc3d-92dfd163cf6c@www.speedtest.net:2053?path=%2Fcdn%2Fapp-assets%2Fv3.3.2%2F&security=tls&encryption=none&host=cdn-assets.cyberscaler.com&fp=chrome&type=ws&sni=cdn-assets.cyberscaler.com#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20by%20CloudFlare  # 187ms
+vless://f9fd5b50-ae7d-5f9a-82e8-b1a9633e682e@185.18.250.27:443?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&host=sany.sofia321.woRkers.DEV&fp=chrome&type=ws&sni=sany.sofia321.woRkers.DEV#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Ghost  # 108ms
+vless://3ac2de34-47c5-4dd5-afc0-8fb4b05d4077@104.18.26.90:80?path=%2F%3Fed&security=none&encryption=none&host=blaze-can-118.blazecanada.site&type=ws#%F0%9F%87%A8%F0%9F%87%A6%20Proxy%20Canada  # 112ms
+vmess://eyJhZGQiOiI0NS4xMjguNTQuODQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzJmZWI4MzMtNDE5Ni00YTcwLWEzZjUtYWViMDExZjdkNTM0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNzMxMyIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9  # 247ms
+vless://f744c2dc-1359-494c-9808-d81ce7665d58@172.66.45.24:443?path=%2FLQlBRp7bKt33t0q2%3Fed%3D2560&security=tls&alpn=h2&encryption=none&host=reAl-madrID9248.pagEs.dEv&fp=randomized&type=ws&sni=reAl-madrID9248.pagEs.dEv#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20Monster%20%F0%9F%94%A5  # 108ms
+vless://229a61b0-5925-43dc-83f9-661670cfe41d@188.114.96.9:443?path=%2F&security=tls&encryption=none&host=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev&type=ws&sni=n8yt9i7dizcb4nbicv55vdqyfahovzb6jvwipqntbtfmvpa4ugrxmzrlhqrfgfr.u19x5rr.workers.Dev#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Monster%203%20%F0%9F%94%A5  # 124ms
+vless://252df5e8-0428-4345-b236-a6dae7b3457d@172.67.178.14:443?path=%2F&security=tls&encryption=none&host=MaIncrafT.dPdnS.OrG&type=ws&sni=MaIncrafT.dPdnS.OrG#%F0%9F%87%AE%F0%9F%87%B9%20Italy%20Monster%204%20%F0%9F%94%A5  # 140ms
+vless://fa0825cd-89b2-4e57-a669-68d4f4a3bd2c@oureverydaylife.com:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=taochan.sylphachan.ip-ddns.com&fp=randomized&type=ws&sni=taochan.sylphachan.ip-ddns.com#%F0%9F%87%AE%F0%9F%87%B9%20Italy%3F%20Yes%20%E2%9C%8B  # 310ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%204  # 237ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%205  # 277ms
+vless://25c5cbda-39e5-47ed-b36c-b87ffef2378d@104.18.9.132:2087?path=%2F&security=tls&encryption=none&type=ws&sni=worker-fancy-base-7d08.yajici1215.workers.DEV#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%8C%9A  # 106ms
+vmess://eyJhZGQiOiJwcS1icmF6aWwxLjA5dnBuLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicHEtYnJhemlsMS4wOXZwbi5jb20iLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZlYy05NjNlLWMxMmQwOWYzNmJlZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0IjoiODAiLCJwcyI6IvCfh6fwn4e3IE1pbmkgQnJhemlsIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9  # 387ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@public18v7.fastipsport.com:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%206  # 265ms
+vless://21cf57f2-391f-4e7b-91ac-8b650e0a2f4c@cdnjs.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-fg-3.parmis.filegear-sg.me&fp=chrome&type=ws&sni=rayan-fg-3.parmis.filegear-sg.me#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%92%AF  # 201ms
+vless://14eba471-4623-4ed1-b937-f5b2206749bf@magazine.sentry-warrunner.xyz:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers&sni=miro.com&sid=1c547814#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F  # 186ms
+vless://3d1c38ee-64b9-4792-8752-a7fa128a1d0d@www.speedtest.net:8443?path=%2FbjPG7HijNQbb27YI%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&security=tls&alpn=http%2F1.1&encryption=none&host=mahsa.alluniversity.online&fp=randomized&type=ws&sni=maHsA.allUNIVeRsiTY.onLine#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%F0%9F%8C%9A%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F  # 124ms
+vmess://eyJhZGQiOiIxMjAuMjYuNTUuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAxMTIiLCJwcyI6IvCfh6jwn4ezIENoaW5hIPCfkqYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9  # 278ms
+vless://3d1c38ee-64b9-4792-8752-a7fa128a1d0d@www.speedtest.net:8443?path=%2FbjPG7HijNQbb27YI%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&security=tls&alpn=http%2F1.1&encryption=none&host=mahsa.alluniversity.online&fp=randomized&type=ws&sni=maHsA.allUNIVeRsiTY.onLine#%F0%9F%87%A9%F0%9F%87%AA%20Mini%20Germany  # 109ms
+vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJRNC4xOWthbGEuY08iLCJpZCI6ImZvci1NYWhzYU5HLXZwbi0wMDE0MSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfh6nwn4eqIE1pbmkgR2VybWFueSAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9  # 109ms
+vless://eb577431-3b16-4a8f-953b-7bcfb573b025@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fkskoxmws&security=tls&encryption=none&host=638901446244340634.dezful-prx-dnraabg.info&type=ws&sni=638901446244340634.dezful-prx-dnraabg.info#%F0%9F%87%AB%F0%9F%87%B7%20Paris%3F%20Yes%20%F0%9F%99%8C  # 199ms
+vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#%F0%9F%87%AE%F0%9F%87%B9%20ProxyCloud%20Italy%20Fast  # 107ms
+vless://074d7498-4aa9-41f9-b322-3e0debb686c7@www.speedtest.net:2053?path=%2Fcdn%2Fapp-assets%2Fv3.3.2%2F&security=tls&encryption=none&host=cdn-assets.cyberscaler.com&fp=firefox&type=ws&sni=cdn-assets.cyberscaler.com#%F0%9F%87%A8%F0%9F%87%A6%20Mini%20Canada  # 97ms
+vless://jrghxqxyoy@npmjs.com:2053?path=%2Fdownload%2Fcdn&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=jrghxqxyoy-518237151.zamam.co&fp=randomized&type=httpupgrade&sni=jrghxqxyoy-518237151.zamam.co#%F0%9F%87%B7%F0%9F%87%B4%20ProxyCloud%20Romania%20Plus  # 199ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France%20Mini  # 108ms
+vmess://eyJhZGQiOiIxNS4yMzUuNDEuMjAwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiLwn4eo8J+HpiBDYW5hZGE/IFllcyDwn4yaIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9  # 251ms
+vmess://eyJhZGQiOiI0Ni4yNTAuMjQzLjU2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImE3NWYzZjk1LWFkNGUtNDQ5OC1mYzcyLWRkNzQwZGQwMmJmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAzOTQiLCJwcyI6IvCfh6zwn4enIFVLIE1vbnN0ZXIg8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=  # 444ms
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@185.200.190.159:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%F0%9F%87%AB%F0%9F%87%AE%20ProxyCloud%20Finland%20%F0%9F%91%91  # 92ms
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6vwn4e3IFByb3h5Q2xvdWQgRnJhbmNlIPCfkqYiLCJzY3kiOiJhdXRvIiwic25pIjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9  # 124ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%207  # 123ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%208  # 37ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%209  # 109ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%2010  # 45ms
+vless://0fbecce1-acf9-4b6e-a0f7-f48be9d2b7d0@104.18.26.90:443?path=%2Flinkws&security=tls&encryption=none&host=maxnetvipap-cloud252.netkh3.site&type=ws&sni=maxnetvipap-cloud252.netkh3.site#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%2011  # 123ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%F0%9F%87%BA%F0%9F%87%B8%20ProxyCloud%20USA%2012  # 46ms
+vless://for-MahsaNG-vpn@188.114.98.18:2082?path=%2Fmahsa_net%2F&security=none&encryption=none&host=Q7.19kaLA.cO&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Mini%20Finland%20%F0%9F%91%91  # 124ms
+vmess://eyJhZGQiOiI5MS45OS4xODUuMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjdiZDZhMWVhLWEyMjAtNGYxYy1hZmVkLTZjZmI4YWI5NmFkOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IvCfh7Pwn4exIE1pbmkgTkwgMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==  # 139ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20Mini%20NL%203  # 123ms
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20NL%20%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20P-Cloud%20Plus%201  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#%F0%9F%87%B3%F0%9F%87%B1%20P-Cloud%20Plus%202  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%BB%F0%9F%87%AA%20P-Cloud%20Plus%203  # 125ms
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#%F0%9F%87%A6%F0%9F%87%B9%20P-Cloud%20Plus%204  # 99ms
+ss://YWVzLTI1Ni1nY206YmFiZWMyZjctZGE5Yi00NjFhLTgzZTktOWM3NTA3OTA5ZWNm@45.134.13.75:443#%F0%9F%87%AE%F0%9F%87%B9%20P-Cloud%20Plus%205  # 103ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNlFLaEVWQVhaSVk3cWcydU9sb0U0@45.132.1.139:4143#%F0%9F%87%B7%F0%9F%87%BA%20P-Cloud%20Plus%206  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AE%20P-Cloud%20Plus%208  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqTGtDWHo3SHNxdVlwMmQwZWNuMHpD@77.83.246.74:443#%F0%9F%87%B5%F0%9F%87%B1%20P-Cloud%20Plus%209  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#%F0%9F%87%B5%F0%9F%87%B9%20P-Cloud%20Plus%2010  # 139ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYVFwSWRjTHd3dGI%3D@77.83.245.190:443#%F0%9F%87%B9%F0%9F%87%B7%20P-Cloud%20Plus%2012  # 48ms
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@5.181.171.2:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%AE%F0%9F%87%B3%20P-Cloud%20Plus%2014  # 186ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443#%F0%9F%87%BA%F0%9F%87%B8%20P-Cloud%20Plus%2015  # 233ms
+vless://a87bf8a2-17a4-3054-b51e-876b5f1d0f24@103.175.79.2:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%87%B5%F0%9F%87%B0%20P-Cloud%20Plus%2016  # 251ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#%F0%9F%87%BA%F0%9F%87%B8%20P-Cloud%20Plus%2017  # 1273ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#%F0%9F%87%AA%F0%9F%87%AA%20P-Cloud%20Plus%2019  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20P-Cloud%20Plus%2020  # 250ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#%F0%9F%87%B2%F0%9F%87%BE%20P-Cloud%20Plus%2023  # 255ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A8%F0%9F%87%B4%20P-Cloud%20Plus%2024  # 328ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRXNqUUwwclh3UWdKZXozQVNqb09x@sakura.outlinekeys.net:1235#%F0%9F%87%AF%F0%9F%87%B5%20P-Cloud%20Plus%2025  # 311ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFRXNqUUwwclh3UWdKZXozQVNqb09x@91.194.160.151:1235#%F0%9F%87%AF%F0%9F%87%B5%20P-Cloud%20Plus%2026  # 328ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#%F0%9F%87%AE%F0%9F%87%B3%20P-Cloud%20Plus%2027  # 343ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%9F%87%B5%F0%9F%87%B7%20P-Cloud%20Plus%2028  # 325ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#%F0%9F%87%A8%F0%9F%87%B7%20P-Cloud%20Plus%2030  # 282ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#%F0%9F%87%A8%F0%9F%87%BE%20P-Cloud%20Plus%2031  # 129ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9%20P-Cloud%20Plus%2032  # 304ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1%20P-Cloud%20Plus%2033  # 123ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&headerType=none&type=tcp&sni=rc6.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8%20P-Cloud%20Plus%2034  # 202ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#%F0%9F%87%B3%F0%9F%87%B1%20P-Cloud%20Plus%2035  # 141ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#%F0%9F%87%B2%F0%9F%87%B0%20P-Cloud%20Plus%2036  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#%F0%9F%87%AD%F0%9F%87%B0%20P-Cloud%20Plus%2037  # 327ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%F0%9F%87%AE%F0%9F%87%B3%20P-Cloud%20Plus%2039  # 389ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#%F0%9F%87%BB%F0%9F%87%B3%20P-Cloud%20Plus%2040  # 418ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#%F0%9F%87%AC%F0%9F%87%B9%20P-Cloud%20Plus%2041  # 1353ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@beta.mattenadene.org:54075#%F0%9F%87%BA%F0%9F%87%B8%20P-Cloud%20Plus%2042  # 231ms
+ss://YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx@hanguo01.tmdns-sing.top:13882#%F0%9F%87%B0%F0%9F%87%B7%20P-Cloud%20Plus%2043  # 559ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@arxfw2b78fi2q9hzylhn.freesocks.work:443#%F0%9F%87%BB%F0%9F%87%B3%20P-Cloud%20Plus%2044  # 374ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%F0%9F%87%AA%F0%9F%87%A8%20Ecuador  # 419ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%28Greenhost%20BV%29  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#%F0%9F%91%91%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20NL%20Fast  # 124ms
+ss://YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx@usa022.tmdns-sing.top:13892#%F0%9F%87%BA%F0%9F%87%B8%20United%20States  # 342ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%28Microsoft%20Corporation%29  # 122ms
+vless://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@famous-danger.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20Netherlands%20%F0%9F%91%91  # 3125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#%F0%9F%87%A7%F0%9F%87%B7%20ProxyCloud%20Brazil%20%F0%9F%98%B6%E2%80%8D%F0%9F%8C%AB%EF%B8%8F  # 326ms
+vless://b055036a-2d81-4d46-ab18-4e1898b58cec@fearless-change.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20NL%20Fast%20Unlimited  # 116ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20Fast%20Unlimited%202  # 116ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%AE%F0%9F%87%B7%20Meli  # 124ms
+vmess://eyJhZGQiOiJucG1qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBteG5iY3JyZmQtNDUxNTE2NzEwNS56YW1hbS5jbyIsImlkIjoicG14bmJjcnJmZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9kb3dubG9hZC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoi8J+HsfCfh64gUHJveHlDbG91ZCBMaWVjaHRlbnN0ZWluIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9  # 124ms
+vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20VPN  # 125ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%AB%F0%9F%87%B7%20ProxyCloud%20France%20%F0%9F%91%91  # 1121ms
+vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?path=%2F&security=none&encryption=none&host=light-presence.oneeat.co&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20NL%20%F0%9F%94%A5  # 107ms
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%20USA%20Server  # 189ms
+vless://826f524a-cea1-4e44-9b49-3381d13b7593@fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev:443?path=%2FXHPTFMTFoBNv6IV6&security=tls&alpn=http%2F1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=fk31lnDM4W8UJ0yP1dRwlTDTDKo6y-cU.PaGeS.DeV#%F0%9F%87%A9%F0%9F%87%AA%20Cloudflare%20Plus%20-%20IRDevs%201  # 435ms
+vless://826f524a-cea1-4e44-9b49-3381d13b7593@www.speedtest.net:443?path=%2FkDPocrIW3Ice02v4&security=tls&alpn=http%2F1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=FK31lnDM4w8UJ0YP1dRWLtdtDKO6Y-cu.pages.dEv#%F0%9F%87%A9%F0%9F%87%AA%20Cloudflare%20Plus%20-%20IRDevs%202  # 109ms
+vless://826f524a-cea1-4e44-9b49-3381d13b7593@172.66.46.247:443?path=%2FlaGekhA1Q1IhSqJe&security=tls&alpn=http%2F1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=fk31lnDM4W8uJ0Yp1drWlTdTdkO6Y-Cu.pages.deV#%F0%9F%87%A9%F0%9F%87%AA%20Cloudflare%20Plus%20-%20IRDevs%203  # 110ms
+vless://826f524a-cea1-4e44-9b49-3381d13b7593@172.66.45.9:443?path=%2FgL8gLANdh881Nj22&security=tls&alpn=http%2F1.1&encryption=none&host=fk31lndm4w8uj0yp1drwltdtdko6y-cu.pages.dev&fp=randomized&type=ws&sni=fk31LnDm4W8uj0yP1dRwLTDTdKo6Y-cu.pAGES.dEv#%F0%9F%87%A9%F0%9F%87%AA%20Cloudflare%20Plus%20-%20IRDevs%204  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#%F0%9F%87%B8%F0%9F%87%AE%20ProxyCloud%20Slovenia  # 1137ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%202  # 325ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A8%F0%9F%87%B4%20ProxyCloud%20Colombia%20%F0%9F%92%83  # 326ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20NL%20%F0%9F%92%AF%F0%9F%94%A5  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#%F0%9F%87%B2%F0%9F%87%BD%20%F0%9F%8C%AE%20ProxyCloud  # 277ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#%F0%9F%87%B8%F0%9F%87%AA%20ProxyCloud%20Sweden%202  # 126ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20NL%20Fast  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20NL%20Fast%202  # 121ms
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#%F0%9F%87%AE%F0%9F%87%B3%20ProxyCloud%20India%20-%20Mumbai  # 371ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#%F0%9F%87%B2%F0%9F%87%BE%20ProxyCloud%20Malaysia  # 263ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7%20ProxyCloud%20Turkey  # 94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#%F0%9F%87%B5%F0%9F%87%B9%20ProxyCloud%20Portugal  # 140ms
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#%F0%9F%87%AE%F0%9F%87%B3%20ProxyCloud%20India%202  # 360ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AE%20ProxyCloud%20Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20NL%20Pro  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%F0%9F%87%B3%F0%9F%87%B1%20ProxyCloud%20NL%20Pro%202  # 105ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#%F0%9F%87%BA%F0%9F%87%B8%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%202  # 228ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%F0%9F%87%B1%F0%9F%87%B9%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D9%87%D9%85%D8%B1%D8%A7%D9%87  # 118ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#%F0%9F%87%B1%F0%9F%87%B9%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%202  # 100ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D9%87%D9%85%D8%B1%D8%A7%D9%87  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%F0%9F%87%B3%F0%9F%87%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84%20%D9%88%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%202  # 125ms
+vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiQkxhWkUtZlJBLTY0LkJMYVpFQ0xPdUQuc2l0RSIsImlkIjoiYjdhY2Y0NGYtM2MzYS00MzBjLThlZDAtZmI2NGNjYzlhMTNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2a3dzcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfkZEg2KrZhdin2YUg2KfZvtix2KfYqtmI2LEg2YfYpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%203  # 187ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%F0%9F%87%A9%F0%9F%87%AA%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84  # 108ms
+vmess://eyJhZGQiOiIxNjEuMjQ4LjMwLjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTAwNmE5MjgtMjAyMS00YTNiLWJlYjUtZDU4NTNjNjI4MWM1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoi8J+Hu/Cfh7Mg2YfZhdix2KfZhyDYp9mI2YQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=  # 1382ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84  # 185ms
+ss://YWVzLTI1Ni1nY206MTAyYWQzZGEtMmQ1NS00OWQ2LWI4YzgtMmQ3ZTA0ZGYzM2Nh@77.110.110.240:443?note--Telegram--@NetifyVPN--#🇦🇹 Vienna, 9, Austria  # 109ms
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443?note--Telegram---@Raiv2mmr---#🇦🇹 Vienna, 9, Austria  # 109ms
+ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443#🇦🇹 Vienna, 9, Austria  # 107ms
+ss://YWVzLTI1Ni1nY206MjY5YzI4NDctMjVlMC00NTkzLWEzZDAtNGVjZTg0YTI1ZmEy@77.110.110.240:443#🇦🇹 Vienna, 9, Austria  # 124ms
+ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443?typetcp#🇦🇹 Vienna, 9, Austria  # 95ms
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443?note--Telegram--@NetifyVPN-- #🇦🇹 Vienna, 9, Austria  # 121ms
+ss://YWVzLTI1Ni1nY206M2Y0MGJmM2QtMmYxZS00ZjQzLWJmNTQtZTVmZTc0MmEzYjRl@77.110.110.240:443#🇦🇹 Vienna, 9, Austria  # 109ms
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443?note--Telegram---@Raiv2mmr--- #🇦🇹 Vienna, 9, Austria  # 125ms
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#🇦🇹 Vienna, 9, Austria  # 110ms
+ss://YWVzLTI1Ni1nY206MTAyYWQzZGEtMmQ1NS00OWQ2LWI4YzgtMmQ3ZTA0ZGYzM2Nh@77.110.110.240:443?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇦🇹 Vienna, 9, Austria  # 108ms
+ss://YWVzLTI1Ni1nY206MTAyYWQzZGEtMmQ1NS00OWQ2LWI4YzgtMmQ3ZTA0ZGYzM2Nh@77.110.110.240:443?note--Telegram--@NetifyVPN-- #🇦🇹 Vienna, 9, Austria  # 100ms
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443?typetcp#🇦🇹 Vienna, 9, Austria  # 124ms
+ss://YWVzLTI1Ni1nY206MTAyYWQzZGEtMmQ1NS00OWQ2LWI4YzgtMmQ3ZTA0ZGYzM2Nh@77.110.110.240:443#🇦🇹 Vienna, 9, Austria  # 108ms
+ss://YWVzLTI1Ni1nY206MGE5MTRlOWEtM2UzYi00NzBmLWEyNjctN2VhNzA4M2M0NWJi@77.110.110.240:443?typetcp#🇦🇹 Vienna, 9, Austria  # 107ms
+ss://YWVzLTI1Ni1nY206ZWUzMjA4ODMtY2QzOS00MjUxLTk5MWItNmY0MWQyM2I0NGU3@77.110.110.240:443#🇦🇹 Vienna, 9, Austria  # 98ms
+ss://YWVzLTI1Ni1nY206MTAyYWQzZGEtMmQ1NS00OWQ2LWI4YzgtMmQ3ZTA0ZGYzM2Nh@77.110.110.240:443?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇦🇹 Vienna, 9, Austria  # 123ms
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443?note--Telegram--@NetifyVPN--#🇦🇹 Vienna, 9, Austria  # 108ms
+ss://YWVzLTI1Ni1nY206MGE5MTRlOWEtM2UzYi00NzBmLWEyNjctN2VhNzA4M2M0NWJi@77.110.110.240:443#🇦🇹 Vienna, 9, Austria  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aDlZTU9jdUFxTlQ4dFJVdlFXaUV6@45.79.238.56:443#🇦🇺 Sydney, NSW, Australia  # 387ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990?note--Telegram---@Raiv2mmr---#🇧🇷 São Paulo, SP, Brazil  # 327ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990?note--Telegram---@Raiv2mmr--- #🇧🇷 São Paulo, SP, Brazil  # 344ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990?note--Telegram--@NetifyVPN-- #🇧🇷 São Paulo, SP, Brazil  # 358ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQ1BMOTkxU1J4VDc5UXVHdFVqb1Ju@170.80.110.29:8443#🇧🇷 Fortaleza, CE, Brazil  # 219ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990?note--Telegram--@NetifyVPN--#🇧🇷 São Paulo, SP, Brazil  # 1384ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🇧🇷 São Paulo, SP, Brazil  # 341ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?typetcp #🇨🇦 Canada  # 202ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🇨🇦 Canada  # 186ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇨🇦 Canada  # 171ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@ca07.giamping.com:8080#🇨🇦 Montreal, QC, Canada  # 220ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?noteTelegram---@NetifyVPN---#🇨🇦 Canada  # 172ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?note--Telegram--@NetifyVPN-- #🇨🇦 Canada  # 185ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇨🇦 Canada  # 188ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?prefix%16%03%01%00%C2%A8%01%01#🇨🇦 Canada  # 182ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?note--Telegram--@NetifyVPN--#🇨🇦 Canada  # 200ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80?typetcp#🇨🇦 Canada  # 202ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4RU5GQmdLc095WWR3bmI3S3JEQVBK@45.95.232.236:4248?note--Telegram--@NetifyVPN--#🇨🇭 Zurich, ZH, Switzerland  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4RU5GQmdLc095WWR3bmI3S3JEQVBK@45.95.232.236:4248#🇨🇭 Zurich, ZH, Switzerland  # 171ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4RU5GQmdLc095WWR3bmI3S3JEQVBK@h110vpnch.outlinekeys.net:4248#🇨🇭 Zurich, ZH, Switzerland  # 154ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@ch03.giamping.com:8080#🇨🇭 Zurich, ZH, Switzerland  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4RU5GQmdLc095WWR3bmI3S3JEQVBK@45.95.232.236:4248?note--Telegram--@NetifyVPN-- #🇨🇭 Zurich, ZH, Switzerland  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990?note--Telegram--@NetifyVPN-- #🇨🇴 Bogotá, DC, Colombia  # 328ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990?note--Telegram--@NetifyVPN--#🇨🇴 Bogotá, DC, Colombia  # 317ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#🇨🇷 San José, SJ, Costa Rica  # 257ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990#🇨🇾 Limassol, 02, Cyprus  # 155ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990?note--Telegram--@NetifyVPN--#🇨🇾 Limassol, 02, Cyprus  # 170ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@de14.giamping.com:8080#🇩🇪 Nuremberg, BY, Germany  # 141ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â-JOIN---AZADIV2RAYY-----bia-â--AZADIV2RAYY---Bia---AZADIV2RAYY #🇩🇪 Germany  # 171ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@147.45.178.200:57456?note---Telegram---@NetifyVPN#🇩🇪 Frankfurt am Main, HE, Germany  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â-JOIN---AZADIV2RAYY-----bia-â--AZADIV2RAYY---Bia---AZADIV2RAYY#🇩🇪 Germany  # 170ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930#🇩🇪 Germany  # 155ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@fr09.giamping.com:8080#🇩🇪 Germany  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY#🇩🇪 Germany  # 172ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVWdZbFVIbEthblp1YU1BWUNDcFhh@94.159.96.245:11902?typetcp#🇩🇪 Frankfurt am Main, HE, Germany  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmeDU1cGRsNkhWaUdEY242dVNRc2pa@h110vpnde2.outlinekeys.net:53122#🇩🇪 Frankfurt am Main, HE, Germany  # 388ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@de04.giamping.com:8080#🇩🇪 Nuremberg, BY, Germany  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE2NmM1YjM0NjU1NDBm@desrv.ssvpnapp.win:57456#🇩🇪 Germany  # 3334ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-‐-JOIN---AZADIV2RAYY-----bia-‐--AZADIV2RAYY---Bia---AZADIV2RAYY #🇩🇪 Germany  # 169ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â€�-JOIN---AZADIV2RAYY-----bia-â€�--AZADIV2RAYY---Bia---AZADIV2RAYY #🇩🇪 Germany  # 171ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@de15.giamping.com:8080#🇩🇪 Nuremberg, BY, Germany  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozOGYzNDMxMmM3M2FjYWUy@135.125.219.2:25930?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-Ã¢Â€Â�-JOIN---AZADIV2RAYY-----bia-Ã¢Â€Â�--AZADIV2RAYY---Bia---AZADIV2RAYY #🇩🇪 Germany  # 187ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#🇪🇨 Quito, P, Ecuador  # 385ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#🇪🇨 Quito, P, Ecuador  # 436ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#🇪🇪 Tallinn, 37, Estonia  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990?note--Telegram--NetifyVPN--#🇪🇪 Tallinn, 37, Estonia  # 97ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990?note--Telegram--@NetifyVPN--#🇪🇪 Tallinn, 37, Estonia  # 105ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990?note--Telegram--@NetifyVPN-- #🇪🇪 Tallinn, 37, Estonia  # 1106ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSV0VEWktjc21vQTZMS0hLeE9iNjRI@194.87.45.189:443#🇪🇸 Madrid, MD, Spain  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1a09ESTRWam5mSzJiOXB5a1VENU5n@194.87.45.189:443#🇪🇸 Madrid, MD, Spain  # 113ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🇪🇸 Barcelona, CT, Spain  # 149ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348?note--Telegram--@NetifyVPN--#🇫🇮 Helsinki, 18, Finland  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNYWw5RGVLblNGaFVMZDVOYnBrYWUw@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3M1RkenNIb3NQUWpHQWFMbW85bEdR@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 100ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?note--Telegram--@NetifyVPN-- #🇫🇮 Helsinki, 18, Finland  # 117ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVkFaNm5zQ0dWV2hUemNSSVVEODVm@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?typetcp #🇫🇮 Helsinki, 18, Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348?note--Telegram--@NetifyVPN-- #🇫🇮 Helsinki, 18, Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?typetcp#🇫🇮 Helsinki, 18, Finland  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZY0ZYTE9rZEVZMllLVjY2MndCYmpu@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprbWdrMXNXWTRGaDRkdzlieGsyTkJH@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYUtldVVkaVNaSjF2bDJqVThHbmZZ@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQ0wyeUFQMWlQT3ZBRWU4ZFdlMmgx@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456?prefix%16%03%01%00%C2%A8%01%01#🇫🇮 Helsinki, 18, Finland  # 93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVFViNFl1U21Qb1NKVDRiWVVZZWUy@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNUEZ6b1dwMmNYY0oyeHJsT0dsZWFm@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCSjVuRFpUdWxtWXpuSHZIWGhTNloz@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 1118ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519?note--Telegram--@NetifyVPN-- #🇫🇮 Helsinki, 18, Finland  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTkxsOE4xU2JRbkpURjBYU2Z0b0VR@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?note--Telegram--@NetifyVPN--#🇫🇮 Helsinki, 18, Finland  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?note--Telegram--NetifyVPN--#🇫🇮 Helsinki, 18, Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcTF5NnpFQW1jZkdvQkIwZFJCYlY3@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3OURGOVJUbmFyQ1EwY3JJNXJ5a0VV@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519?prefix%16%03%01%00%C2%A8%01%01#🇫🇮 Helsinki, 18, Finland  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇫🇮 Helsinki, 18, Finland  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519?note--Telegram--NetifyVPN--#🇫🇮 Helsinki, 18, Finland  # 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplQnpLWHhFbVFsQVpLSUJDOFBoUVla@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348#🇫🇮 Helsinki, 18, Finland  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwVFViNFl1U21Qb1NKVDRiWVVZZWUy@83.147.216.70:64519?typetcp#🇫🇮 Helsinki, 18, Finland  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519?note--Telegram--@NetifyVPN--#🇫🇮 Helsinki, 18, Finland  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSTGZhN0lsem1tcnd5QnRJNEJPSnMz@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyT1FyV2h6N290eE9yUEJDNnVIZDNG@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#🇫🇮 Helsinki, 18, Finland  # 93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 100ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#🇫🇮 Helsinki, 18, Finland  # 117ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZWGdTOENvbVRhbTdxb2VzUGx6bE1v@83.147.216.70:64519#🇫🇮 Helsinki, 18, Finland  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:64519?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇫🇮 Helsinki, 18, Finland  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWHZPN3pZVTdLZWFCME1kN0RRTG93@51.195.119.47:1080#🇫🇷 France  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3dWF4aVkwNGIyVUk4aUYyMjIzQnVz@89.185.84.185:443#🇬🇧 United Kingdom  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@backup.fleetfoxi.link:44884#🇬🇧 United Kingdom  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@64.137.109.212:44884#🇬🇧 United Kingdom  # 94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbVhGbDAxQUJvUUJpWXpRVjdtTDkx@89.185.84.185:443#🇬🇧 United Kingdom  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyREdxM2p2VlJnNW4zQ2N4bXlzR0sya21yZ0plU05vZjEyQTc2Y1p2VnhxUHBldHlDMVhFY2lDRnVmcTV4S3ZSV0dHbktWZW1icFRodVVTUWhiWjdHTXNaWTRVVnhFQnc@64.137.109.212:44884?prefix%16%03%01%00%C2%A8%01%01#🇬🇧 United Kingdom  # 93ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.196:443#🇬🇧 London, ENG, United Kingdom  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPMExKaFdjM2MwWkQ5Y3RiNEhXR1NP@89.185.84.185:443#🇬🇧 United Kingdom  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990?note--Telegram--@NetifyVPN-- #🇬🇷 Thessaloniki, B, Greece  # 106ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990?typetcp#🇬🇷 Thessaloniki, B, Greece  # 81ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990?note--Telegram--@NetifyVPN--#🇬🇷 Thessaloniki, B, Greece  # 104ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🇬🇷 Thessaloniki, B, Greece  # 94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#🇭🇰 Hong Kong, Hong Kong  # 296ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#🇮🇩 Jakarta, JK, Indonesia  # 373ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@ie01.giamping.com:8080#🇮🇪 Dublin, L, Ireland  # 131ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@23.94.67.166:8080#🇮🇪 Dublin, L, Ireland  # 152ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990#🇮🇱 Tel Aviv, TA, Israel  # 155ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990?#🇮🇱 Tel Aviv, TA, Israel  # 171ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990?typetcp#🇮🇱 Tel Aviv, TA, Israel  # 141ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@169.150.202.174:990? #🇮🇱 Tel Aviv, TA, Israel  # 171ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607?note--Telegram--@NetifyVPN--#🇮🇳 Mumbai, MH, India  # 372ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607?note--Telegram--@NetifyVPN-- #🇮🇳 Mumbai, MH, India  # 359ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347?typetcp #🇮🇳 Bengaluru, KA, India  # 327ms
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652?prefix%16%03%01%00%C2%A8%01%01 #🇮🇳 Mumbai, MH, India  # 1381ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347?typetcp#🇮🇳 Bengaluru, KA, India  # 326ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607?typetcp #🇮🇳 Mumbai, MH, India  # 349ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347?note--Telegram--NetifyVPN-- #🇮🇳 Bengaluru, KA, India  # 319ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🇮🇳 Bengaluru, KA, India  # 1354ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347?note--Telegram--@NetifyVPN-- #🇮🇳 Bengaluru, KA, India  # 324ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456?prefix%16%03%01%00%C2%A8%01%01#🇮🇳 Mumbai, MH, India  # 1395ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347?note--Telegram--@NetifyVPN--#🇮🇳 Bengaluru, KA, India  # 328ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607?typetcp#🇮🇳 Mumbai, MH, India  # 389ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607?prefix%16%03%01%00%C2%A8%01%01 #🇮🇳 Mumbai, MH, India  # 388ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#🇮🇳 Bengaluru, KA, India  # 325ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#🇮🇳 Mumbai, MH, India  # 372ms
+ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607?prefix%16%03%01%00%C2%A8%01%01#🇮🇳 Mumbai, MH, India  # 388ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#🇮🇳 Mumbai, MH, India  # 592ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#🇮🇳 Mumbai, MH, India  # 373ms
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652?prefix%16%03%01%00%C2%A8%01%01#🇮🇳 Mumbai, MH, India  # 338ms
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#🇮🇳 Mumbai, MH, India  # 389ms
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#🇯🇵 Tokyo, 13, Japan  # 245ms
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@2.58.87.221:16899?prefix%16%03%01%00%C2%A8%01%01#🇱🇹 Lithuania  # 250ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.36.61.59:990#🇱🇹 Lithuania  # 203ms
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA@2.58.87.221:16899#🇱🇹 Lithuania  # 249ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@lv.vpnsparta.pro:57456#🇱🇻 Riga, RIX, Latvia  # 231ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456?note--Telegram--@NetifyVPN--#🇱🇻 Riga, RIX, Latvia  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456#🇱🇻 Riga, RIX, Latvia  # 93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4YWZjNjMzZWI2MzIyN2U5@lv.vpnsparta.pro:57456#🇱🇻 Riga, RIX, Latvia  # 93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@216.173.70.187:57456?note--Telegram--NetifyVPN--#🇱🇻 Riga, RIX, Latvia  # 93ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#🇲🇰 Skopje, North Macedonia  # 106ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990?typetcp #🇲🇽 Mexico City, CMX, Mexico  # 314ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990?note--Telegram--@NetifyVPN-- #🇲🇽 Mexico City, CMX, Mexico  # 328ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#🇲🇽 Mexico City, CMX, Mexico  # 327ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990?note--Telegram--@NetifyVPN--#🇲🇽 Mexico City, CMX, Mexico  # 326ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990?typetcp#🇲🇽 Mexico City, CMX, Mexico  # 312ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990?note--Telegram--@NetifyVPN--#🇲🇾 Kuala Lumpur, 14, Malaysia  # 265ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#🇲🇾 Kuala Lumpur, 14, Malaysia  # 281ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080?note--Telegram--@DHLIM0-- #🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080?note--Telegram--NetifyVPN-- #🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080?note--Telegram--@DHLIM0--#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.164:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🇳🇱 The Netherlands  # 100ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 116ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â-JOIN---AZADIV2RAYY-----bia-â--AZADIV2RAYY---Bia---AZADIV2RAYY #🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#🇳🇱 The Netherlands  # 105ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 111ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#🇳🇱 The Netherlands  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 103ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱 The Netherlands  # 103ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#🇳🇱 The Netherlands  # 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#🇳🇱 The Netherlands  # 138ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.188:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685?note--Telegram--NetifyVPN--#🇳🇱 Amsterdam, NH, The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.167:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl12.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 388ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685?note--Telegram--@NetifyVPN--#🇳🇱 Amsterdam, NH, The Netherlands  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?note--Telegram----#🇳🇱 The Netherlands  # 126ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.171:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.154:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 101ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.209:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 129ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080?note--Telegram--@NetifyVPN-- #🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080?note--Telegram--NetifyVPN--#🇳🇱 The Netherlands  # 104ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080?typetcp#🇳🇱 The Netherlands  # 126ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080?note--Telegram--NetifyVPN--#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 1140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl14.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 1131ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.199:8080#🇳🇱 The Netherlands  # 113ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952#🇳🇱 The Netherlands  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080?note--Telegram--NetifyVPN--#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.181:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080?typetcp#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#🇳🇱 The Netherlands  # 103ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#🇳🇱 The Netherlands  # 130ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-Ã¢Â€Â�-JOIN---AZADIV2RAYY-----bia-Ã¢Â€Â�--AZADIV2RAYY---Bia---AZADIV2RAYY #🇳🇱 The Netherlands  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.154:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#🇳🇱 The Netherlands  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#🇳🇱 The Netherlands  # 96ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#🇳🇱 The Netherlands  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080?typetcp&headerTypenone#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.166:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#🇳🇱 The Netherlands  # 126ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇳🇱 The Netherlands  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 The Netherlands  # 129ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl11.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 358ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080?typetcp&headerTypenone#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080?note--Telegram--NetifyVPN--#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080?prefix%16%03%01%00%C2%A8%01%01 #🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952?prefix%16%03%01%00%C2%A8%01%01 #🇳🇱 The Netherlands  # 138ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl16.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 370ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.166:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?note--Telegram--@NetifyVPN-- #🇳🇱 The Netherlands  # 126ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080?note--Telegram--@NetifyVPN-- #🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpscHJmZDFrem9jamlPNlZkekFzVjdl@178.208.91.118:19805#🇳🇱 Amsterdam, NH, The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?note--Telegram--NetifyVPN-- #🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?typetcp #🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?note--Telegram--@NetifyVPN-- #🇳🇱 The Netherlands  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.47:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl13.saint.ydns.eu:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 216ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080?typetcp#🇳🇱 The Netherlands  # 110ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@ltnl02.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 372ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.170:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#🇳🇱 Amsterdam, NH, The Netherlands  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@vip.nl-16-07.galaxymc-ssh.ir:8080#🇳🇱 The Netherlands  # 872ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#🇳🇱 The Netherlands  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl17.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 218ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.154:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.209:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl03.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 219ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvNW9zWmcyNjl2NXpIcFlqcjF4WTlz@151.242.251.137:8080#🇳🇱 The Netherlands  # 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 The Netherlands  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080?note--Telegram--@NetifyVPN-- #🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080#🇳🇱 The Netherlands  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080?typetcp#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?typetcp#🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952?typetcp#🇳🇱 The Netherlands  # 1119ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl10.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 547ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.45:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#🇳🇱 The Netherlands  # 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@2.ilgm.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#🇳🇱 The Netherlands  # 126ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?typetcp#🇳🇱 The Netherlands  # 98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.69:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 The Netherlands  # 121ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.144:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.158.171.146:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?noteTelegram---@NetifyVPN---#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.58:8080?typetcp&headerTypenone#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080?typetcp&headerTypenone#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@ltnl13.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.35:8080?typetcp&headerTypenone#🇳🇱 The Netherlands  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#🇳🇱 The Netherlands  # 121ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@beesyar.org:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.157:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.157:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.199:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.164:8080#🇳🇱 The Netherlands  # 102ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.165:8080#🇳🇱 The Netherlands  # 114ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇳🇱 Amsterdam, NH, The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@151.242.251.144:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?note--Telegram--@NetifyVPN--#🇳🇱 The Netherlands  # 105ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?note--Telegram--@NetifyVPN-- #🇳🇱 The Netherlands  # 112ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?note--Telegram--NetifyVPN-- #🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 Amsterdam, NH, The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@beesyar.org:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.188:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.185:8080#🇳🇱 The Netherlands  # 122ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl15.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#🇳🇱 The Netherlands  # 126ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 101ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@promo1o.bystrivpn.ru:443#🇳🇱 Amsterdam, NH, The Netherlands  # 133ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@exchange.gameaurela.click:52952#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.178:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080?typetcp #🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080?prefix%16%03%01%00%C2%A8%01%01#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@ltnl04.saint.ydns.eu:8080#🇳🇱 The Netherlands  # 232ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.200:8080?typetcp#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.164:8080?note--Telegram--@NetifyVPN-- #🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0NkRZcFFiM3BabHBJUlNZUVUyRnpY@h110vpnnl.outlinekeys.net:52571#🇳🇱 Amsterdam, NH, The Netherlands  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.166:8080#🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â-JOIN---AZADIV2RAYY-----bia-â--AZADIV2RAYY---Bia---AZADIV2RAYY#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@103.104.247.49:8080#🇳🇱 The Netherlands  # 108ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.146:8080#🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp #🇳🇱 The Netherlands  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#🇳🇱 The Netherlands  # 125ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇳🇱 The Netherlands  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?noteTelegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr--- #🇳🇱 The Netherlands  # 126ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#🇳🇴 Oslo, 03, Norway  # 216ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990?noteTelegram---@NetifyVPN#🇳🇴 Oslo, 03, Norway  # 202ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990?note--Telegram--@NetifyVPN-- #🇳🇴 Oslo, 03, Norway  # 172ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990?note--Telegram--@NetifyVPN--#🇳🇴 Oslo, 03, Norway  # 201ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990?note--Telegram--NetifyVPN-- #🇳🇴 Oslo, 03, Norway  # 185ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990?note--Telegram--NetifyVPN--#🇳🇴 Oslo, 03, Norway  # 187ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#🇵🇪 Lima, LMA, Peru  # 373ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990?typetcp&headerTypenone#🇵🇱 Warsaw, 14, Poland  # 171ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVHcydERsVUtPQ0U3OFlHTWR6cW9y@77.83.246.74:443#🇵🇱 Poland  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990?note--Telegram--@NetifyVPN-- #🇵🇱 Warsaw, 14, Poland  # 171ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#🇵🇱 Warsaw, 14, Poland  # 168ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990?typetcp#🇵🇱 Warsaw, 14, Poland  # 170ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990?note--Telegram--@NetifyVPN--#🇵🇱 Warsaw, 14, Poland  # 170ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#🇷🇴 Bucharest, B, Romania  # 201ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?prefix%16%03%01%00%C2%A8%01%01#🇷🇺 Moscow, MOW, Russia  # 62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#🇷🇺 Moscow, MOW, Russia  # 203ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?noteTelegram---NetifyVPN#🇷🇺 Moscow, MOW, Russia  # 61ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â-JOIN---AZADIV2RAYY-----bia-â--AZADIV2RAYY---Bia---AZADIV2RAYY#🇷🇺 Moscow, MOW, Russia  # 62ms
+ss://YWVzLTI1Ni1nY206NTYwYjdkNjVjMWY0YjEyYQ@195.58.49.147:30301#🇷🇺 St Petersburg, SPE, Russia  # 94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?typetcp #🇷🇺 Moscow, MOW, Russia  # 62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456?noteJOIN----AZADIV2RAYY----JOIN----AZADIV2RAYY----JOIN---AZADIV2RAYY-â-JOIN---AZADIV2RAYY-----bia-â--AZADIV2RAYY---Bia---AZADIV2RAYY #🇷🇺 Moscow, MOW, Russia  # 60ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@ru.vmagnum.win:57456#🇷🇺 Moscow, MOW, Russia  # 94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV1J4WUtyMWZJa1FRalJnSklXZUNV@152.42.245.170:38450#🇸🇬 Singapore, Singapore  # 249ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVmh3eG1tNFBwMTVqcURMOHQzREpU@174.138.20.214:24590#🇸🇬 Singapore, Singapore  # 264ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRYU9HZFlKVXJSRFg1V2xHQTZ5aWN6@143.198.221.178:45135#🇸🇬 Singapore, Singapore  # 263ms
+ss://YWVzLTI1Ni1nY206NDRobmlGLzU4dU1rS1NWTk04NmhCdnRjVjhWSzZ6WDJtQXI3dGpNakRxTT0@167.172.69.97:8443?note--Telegram---@Raiv2mmr--- #🇸🇬 Singapore, Singapore  # 248ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Y1JIclNYeGk2a25yWVNwR09zdEVy@167.172.71.99:22131#🇸🇬 Singapore, Singapore  # 262ms
+ss://YWVzLTI1Ni1nY206NDRobmlGLzU4dU1rS1NWTk04NmhCdnRjVjhWSzZ6WDJtQXI3dGpNakRxTT0@167.172.69.97:8443#🇸🇬 Singapore, Singapore  # 248ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDanU3amNFZU5DNmhJaGdvb0xBdXBF@174.138.20.214:24590#🇸🇬 Singapore, Singapore  # 252ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzemR6THdVbjZaQ3M5V2d4NlhVaXdF@143.198.221.178:45135#🇸🇬 Singapore, Singapore  # 276ms
+ss://YWVzLTI1Ni1nY206NDRobmlGLzU4dU1rS1NWTk04NmhCdnRjVjhWSzZ6WDJtQXI3dGpNakRxTT0@167.172.69.97:8443?note--Telegram--@NetifyVPN--#🇸🇬 Singapore, Singapore  # 266ms
+ss://YWVzLTI1Ni1nY206NDRobmlGLzU4dU1rS1NWTk04NmhCdnRjVjhWSzZ6WDJtQXI3dGpNakRxTT0@167.172.69.97:8443?note--Telegram--NetifyVPN--#🇸🇬 Singapore, Singapore  # 263ms
+ss://YWVzLTI1Ni1nY206NDRobmlGLzU4dU1rS1NWTk04NmhCdnRjVjhWSzZ6WDJtQXI3dGpNakRxTT0@167.172.69.97:8443?note--Telegram--@NetifyVPN-- #🇸🇬 Singapore, Singapore  # 265ms
+ss://YWVzLTI1Ni1nY206NDRobmlGLzU4dU1rS1NWTk04NmhCdnRjVjhWSzZ6WDJtQXI3dGpNakRxTT0@167.172.69.97:8443?note--Telegram--NetifyVPN-- #🇸🇬 Singapore, Singapore  # 248ms
+ss://YWVzLTI1Ni1nY206NDRobmlGLzU4dU1rS1NWTk04NmhCdnRjVjhWSzZ6WDJtQXI3dGpNakRxTT0@167.172.69.97:8443?note--Telegram---@Raiv2mmr---#🇸🇬 Singapore, Singapore  # 266ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOXNPc1ZBemJZUWlMNjM5WTRrOHR4@167.172.71.99:22131#🇸🇬 Singapore, Singapore  # 261ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🇸🇮 Ljubljana, 061, Slovenia  # 144ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🇹🇭 Thailand  # 292ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#🇹🇷 Istanbul, 34, Türkiye  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppMmpzWVpZV3poN3FwOGZaeDhaNERT@h110vpntr.outlinekeys.net:65262#🇹🇷 Istanbul, 34, Türkiye  # 77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990?note--Telegram--@DHLIM0-- #🇹🇷 Istanbul, 34, Türkiye  # 107ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA@5.188.36.93:31348?note--Telegram--@NetifyVPN-- #🇹🇷 Istanbul, 34, Türkiye  # 49ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990?note--Telegram--@DHLIM0--#🇹🇷 Istanbul, 34, Türkiye  # 77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc@77.83.245.50:443?note--Telegram--NetifyVPN--#🇹🇷 Istanbul, 34, Türkiye  # 77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc@77.83.245.50:443#🇹🇷 Istanbul, 34, Türkiye  # 77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA@5.188.36.93:31348?note--Telegram--@NetifyVPN--#🇹🇷 Istanbul, 34, Türkiye  # 63ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc@77.83.245.50:443?note--Telegram--@NetifyVPN--#🇹🇷 Istanbul, 34, Türkiye  # 67ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA@5.188.36.93:31348#🇹🇷 Istanbul, 34, Türkiye  # 75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990?typetcp#🇹🇷 Istanbul, 34, Türkiye  # 92ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990?note--Telegram--@NetifyVPN--#🇹🇷 Istanbul, 34, Türkiye  # 109ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc@77.83.245.50:443?note--Telegram--@NetifyVPN-- #🇹🇷 Istanbul, 34, Türkiye  # 92ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990?note--Telegram--@NetifyVPN-- #🇹🇷 Istanbul, 34, Türkiye  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY@5.188.168.230:31348#🇹🇷 Istanbul, 34, Türkiye  # 55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjM0IwWFBXYnlNNVg@83.217.9.45:443#🇹🇷 Istanbul, 34, Türkiye  # 100ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🇹🇼 Taipei, TPE, Taiwan  # 279ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxOGRiNTM0Ny1lM2I5LTRlYzAtYWMzNi1kZmM2ZmZkZDJiYzE@125.231.66.193:10056#🇹🇼 Taichung, TXG, Taiwan  # 2066ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#🇺🇦 Kyiv, 30, Ukraine  # 170ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990?typetcp&headerTypenone#🇺🇦 Kyiv, 30, Ukraine  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990?noteTelegram---@NetifyVPN---#🇺🇦 Kyiv, 30, Ukraine  # 156ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#🇺🇦 Kyiv, 30, Ukraine  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990?typetcp#🇺🇦 Kyiv, 30, Ukraine  # 123ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443?note--Telegram--NetifyVPN--#🇺🇸 Santa Clara, CA, United States  # 232ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFSExyWkRQbWJwZFd6R1ZhdGhtMWk0@104.192.227.162:443#🇺🇸 Chicago, IL, United States  # 218ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443/?outline1&prefix%16%03%01%00%C2%A8%01%01#🇺🇸 Santa Clara, CA, United States  # 266ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#🇺🇸 Santa Clara, CA, United States  # 233ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTGt3ZnlKQWp2dmJDQzZwbW05dWtiQ2N5dDJjNzYzQllIeHByaVVXbmphRWRSWnVmeWtvYnlQa1V1N0JWYmdzRHBXcXBNWVNMVnJGSEZQazhMejNVTEtyZHh0NWNVcHU@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 143ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443?note--Telegram--NetifyVPN-- #🇺🇸 Santa Clara, CA, United States  # 247ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443?note--Telegram--@NetifyVPN--#🇺🇸 Santa Clara, CA, United States  # 220ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc@144.126.146.38:30789#🇺🇸 Seattle, WA, United States  # 294ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443?note--Telegram--@NetifyVPN-- #🇺🇸 Santa Clara, CA, United States  # 247ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MTlmOGEzNy1mZTRmLTQ2NTQtYmE2MS1mYjhmYzM2NGFjNjQ@154.17.21.139:10086#🇺🇸 Los Angeles, CA, United States  # 249ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#🇺🇸 Santa Clara, CA, United States  # 248ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990?typetcp&headerTypenone#🇺🇸 United States  # 185ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiSEVqN0w5RUJYazFzWGo2WUNzelBzRXJHaVZaOEh0VEM3Y2hkcllZQ3M1R3NuYm4zTHRnamczZ2czSm9uTG9kMUJ6WjZwODlWY2lEcm9TV0pVaVBxOGJzNGtxTWNCOTI@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 141ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@71.19.148.74:443#🇺🇸 Santa Clara, CA, United States  # 232ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpURURQVURES056Y1hINDltNmNOcEFuSEd6Zmk5WDh3UGtyUjljYmM3NzlBR05uMnVXRFR2RnVHSzd3ano2SGY1bnVCS0NFQmttVTZMaHl5Z0JmdExrZFhNdUxoOXk1Ymc@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990?note--Telegram--@NetifyVPN--#🇺🇸 Los Angeles, CA, United States  # 249ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#🇺🇸 United States  # 188ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEOGV3UVdMRlR1QzVEV1I1S054SlR6@hackney-latest-strike.freesocks.work:443#🇺🇸 Santa Clara, CA, United States  # 234ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443?note--Telegram--@NetifyVPN-- #🇺🇸 Phoenix, AZ, United States  # 279ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0S2h1UWN4dFpJS3JENUw5b3lsZTNr@h110vpnus.outlinekeys.net:9483#🇺🇸 Atlanta, GA, United States  # 216ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjV0N0OEZSdzlxWEhRYUc1OUpyTkxp@hackney-latest-strike.freesocks.work:443#🇺🇸 Santa Clara, CA, United States  # 219ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@us33.giamping.com:8080#🇺🇸 New York, NY, United States  # 215ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDUDlMeWM0Nkd2WjM0aGZCeW9aYUFi@104.192.227.162:443#🇺🇸 Chicago, IL, United States  # 178ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443#🇺🇸 Santa Clara, CA, United States  # 241ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#🇺🇸 United States  # 189ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySks4Q3doTkZ1eTN1UW81eUh3SHZSdUVYS0xubnJLVzdUM3NuWEZRMjV5dDI3UEdMS29MWE1GclNGRm9WZ0I1U1FNZUFIeDhaYVFYeDltQVk1NWNZc2tVeVZhUDZSdW0@94.131.22.134:40565#🇺🇸 New York, NY, United States  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOHp1cTVNV1FvQkNLWE1XU2dMcVNIVlh3cVdoOURpemUxMld2VjdOcnozU3hyOGU3eG1CQzRtTnhQVWtqaUZRdjdhUFJaN1dkendpeHFrZmNzTTN4UTdlOVFjWGJoS1E@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 139ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#🇺🇸 United States  # 186ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸 Santa Clara, CA, United States  # 231ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMWFiZDhkNC01MjI4LTQ5MmMtYjgyNy0wMzA0ZTYyYjdhYjA@144.126.146.38:30941#🇺🇸 Seattle, WA, United States  # 314ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySks4Q3doTkZ1eTN1UW81eUh3SHZSdUVYS0xubnJLVzdUM3NuWEZRMjV5dDI3UEdMS29MWE1GclNGRm9WZ0I1U1FNZUFIeDhaYVFYeDltQVk1NWNZc2tVeVZhUDZSdW0@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 127ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4TUZUbThmeENIc0pwbjk2QlN3NXBE@64.225.24.186:56092#🇺🇸 Clifton, NJ, United States  # 187ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc@144.126.146.38:30789?prefix%16%03%01%00%C2%A8%01%01#🇺🇸 Seattle, WA, United States  # 327ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFTEJQYndxc2V5TTVMZTRTWnNwVnpLYXU5REpSYVJBck5ZOG5UVFBaUmd5TVJBaGJYWlJrUHNMUThzUHBmcFp0dE44VEJHeHU4SG5mMmRweFVDdHo3NlFtenMzU0FiOUI@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDWXZUdU1tWEUzWVNjSFNIUndrTGI1OHNWRTlRQVpjVW1tRzVDOHlNWVppelExMlQ3cTZTTkN6TTl1ZUx2TmZaQXhzazhWTEZoRzR3ZHliemZFb25zTmJnTW5hUXdOMms@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 140ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#🇺🇸 Miami, FL, United States  # 298ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443?note--Telegram--@NetifyVPN--#🇺🇸 Phoenix, AZ, United States  # 1263ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprbTZHc01RY2gxV2RaQWltYVdNS3hWcmM0ZWZwUnlHYTdxRlo0SFBiQVNSVlBIU1BXU3d4dldSb3NDWEpUN1BxMndXcFl3Y1JwVExlRkQ4NmtHNENuUnhIZTVzQ0x2emY@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 139ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU@144.126.146.38:30100#🇺🇸 Seattle, WA, United States  # 388ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Tm5zSzdIU1pNcnlnelhtS0N0ckZpajJ1NHZBUGd5WU1ETVNRZmk4ejJWUkNGU3pIWHpyRVpnd0RpcjNpRzF2NVV6ZWk3cFFqbXB5Wjh3akN5RG5UUmR4WExWWDZnWkE@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 1151ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@us32.giamping.com:8080#🇺🇸 United States  # 292ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR2FTVk13ZDZpelJSV3dmWGRKNHZXZngyUGtEQ3J1amJ0WTVMQVJ4OGNpVkpRdWlDTjM0Y0c1Y0ViajFWWjNVVnNBVWFiZFBacW9GYnVyN2EySlF4aVBxU2s5MWhKcjU@imap.roomyinmita.name:40565#🇺🇸 New York, NY, United States  # 124ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkTWFRTHZGbHZ2enNQcXRiTlhUWUZr@64.225.24.186:56092#🇺🇸 Clifton, NJ, United States  # 188ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456?prefix%16%03%01%00%C2%A8%01%01#🇺🇸 Miami, FL, United States  # 202ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#🇺🇸 Miami, FL, United States  # 217ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#🇻🇳 Vietnam  # 718ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOazlhc2dsRHpIemprdFZ6VGt2aGFB@160.19.78.75:443#🇻🇳 Vietnam  # 315ms
+ss://YWVzLTI1Ni1nY206N2YzNWJjYTQtZWEwZC00N2MyLWEzMzktMTdjOTk3NTNkMzU4@192.142.18.127:443#🇿🇦 South Africa  # 120ms
+ss://YWVzLTI1Ni1nY206YWM4ZTUyMTEtZTNiMi00Mjg0LTk4MzItZTU3OWI0MzQwNWYz@192.142.18.127:443#🇿🇦 South Africa  # 111ms
