@@ -5,4 +5,3 @@ ss://YWVzLTEyOC1nY206NzFhZmNiM2QtYzMzMi00ZTNhLThjNGMtYTM0NzNiZWI5NzAz@8.8.8.8:53
 hysteria2://71afcb3d-c332-4e3a-8c4c-a3473beb9703@brazil.vosniehcihwocc.cfd:443?sni=brazil.vosniehcihwocc.cfd&obfs=salamander&obfs-password=ZHr54lKcQTD6kFQh&insecure=0#%E6%98%9F%E9%93%BE%E6%9C%BA%E5%9C%BA.com-%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B96
 hysteria2://71afcb3d-c332-4e3a-8c4c-a3473beb9703@brazil.vosniehcihwocc.cfd:45156?sni=brazil.vosniehcihwocc.cfd&obfs=salamander&obfs-password=bb42TZnHPbKte6c5&insecure=0#%E6%98%9F%E9%93%BE%E6%9C%BA%E5%9C%BA.com-%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B97
 hysteria2://71afcb3d-c332-4e3a-8c4c-a3473beb9703@brazil.vosniehcihwocc.cfd:55156?sni=brazil.vosniehcihwocc.cfd&obfs=salamander&obfs-password=bb42TZnHPbKte6c5&insecure=0#%E6%98%9F%E9%93%BE%E6%9C%BA%E5%9C%BA.com-%E5%85%AC%E7%9B%8A%E8%8A%82%E7%82%B98
-https://raw.githubusercontent.com/voidr3aper-anon/GFW-slayer/refs/heads/main/serverless-v2ray.json
